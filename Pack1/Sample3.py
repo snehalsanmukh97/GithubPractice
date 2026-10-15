@@ -1,0 +1,1 @@
+print("Hello New2 World")
